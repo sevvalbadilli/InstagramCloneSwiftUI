@@ -10,7 +10,7 @@
 
 **Proje Ekibi:** Şevval Badıllı
 
-1. [Proje Planı]()
+1. [Proje Planı](ProjePlani.md)
 2. [Gereksinim Analizi]()
 3. Durum Diyagramı
 4. Durum Senaryoları
