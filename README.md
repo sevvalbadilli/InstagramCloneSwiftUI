@@ -10,8 +10,8 @@
 
 **Proje Ekibi:** Şevval Badıllı
 
-1. Proje Planı
-2. Gereksinim Analizi
+1. [Proje Planı]()
+2. [Gereksinim Analizi]()
 3. Durum Diyagramı
 4. Durum Senaryoları
 5. Veritabanı Diyagramı
