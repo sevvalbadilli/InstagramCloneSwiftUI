@@ -19,5 +19,5 @@
 7. Back-End
 8. Test
 9. Geliştirici ve Kullanıcı Dokümantasyonları
-10. Sunum
+
 
