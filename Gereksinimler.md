@@ -22,4 +22,4 @@
 
 # Gereksinim Dağılımları
 
-[Şevval Badıllı Gereksinimleri]()
+[Şevval Badıllı Gereksinimleri](SevvalGereksinimler.md)
