@@ -1,2 +1,3 @@
 
-![plan](https://github.com/sevvalbadilli/InstagramCloneSwiftUI/assets/87374127/ed52edda-ac9d-4d01-a7e6-ca1920e36bf1)
+
+![plan1](https://github.com/sevvalbadilli/InstagramCloneSwiftUI/assets/87374127/17c3bfd3-74f2-4412-b0fe-d112051c5ebb)
