@@ -12,9 +12,9 @@
 
 1. [Proje Planı](ProjePlani.md)
 2. [Gereksinim Analizi](Gereksinimler.md)
-3. Durum Diyagramı
-4. Durum Senaryoları
-5. Veritabanı Diyagramı
+3. [Durum Diyagramı](DurumDiyagrami.md)
+4. [Durum Senaryoları](DurumSenaryolari.md)
+5. [Veritabanı Diyagramı](VeritabaniDiyagrami.md)
 6. Front-End
 7. Back-End
 8. Test
