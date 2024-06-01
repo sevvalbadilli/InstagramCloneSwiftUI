@@ -19,7 +19,7 @@
 4. [Durum Senaryoları](DurumSenaryolari.md)
 5. [Veritabanı Diyagramı](VeritabaniDiyagrami.md)
 6. [Front-End](FrontEnd.md)
-7. [Back-End](BackEnd)
+7. [Back-End](BackEnd.md)
 8. Test
 9. [Geliştirici ve Kullanıcı Dokümantasyonları](https://svvlbdls-organization.gitbook.io/instagramclone/)
 
