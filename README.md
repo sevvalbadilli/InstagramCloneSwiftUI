@@ -18,7 +18,7 @@
 3. [Durum Diyagramı](DurumDiyagrami.md)
 4. [Durum Senaryoları](DurumSenaryolari.md)
 5. [Veritabanı Diyagramı](VeritabaniDiyagrami.md)
-6. Front-End
+6. [Front-End](https://youtu.be/0WmtfnquWkQ)
 7. Back-End
 8. Test
 9. Geliştirici ve Kullanıcı Dokümantasyonları
