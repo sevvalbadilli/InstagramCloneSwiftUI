@@ -20,7 +20,7 @@
 5. [Veritabanı Diyagramı](VeritabaniDiyagrami.md)
 6. [Front-End](FrontEnd.md)
 7. [Back-End](BackEnd.md)
-8. Test
+8. [Test](Test.md)
 9. [Geliştirici ve Kullanıcı Dokümantasyonları](https://svvlbdls-organization.gitbook.io/instagramclone/)
 
 
